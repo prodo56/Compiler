@@ -1,0 +1,9 @@
+create new variable, create
+create new x, create
+need variable x, create
+want variable x, create
+need new variable, create
+need new variable x, create
+show x, print
+display variable x, print
+print x, print
